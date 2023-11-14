@@ -1,0 +1,9 @@
+
+
+message Ping {
+  required int32 index = 1;
+}
+
+message Pong {
+  required int32 index = 1;
+}
